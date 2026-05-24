@@ -5195,18 +5195,18 @@
       "length": 398,
       "type": "reload",
       "avgThrustN": 1100,
-      "maxThrustN": 2004,
+      "maxThrustN": 1245,
       "totImpulseNs": 1472,
       "burnTimeS": 1.61,
       "dataFiles": 2,
-      "infoUrl": null,
+      "infoUrl": "https://aerotech-rocketry.com/products/product_63cb0ac6-6573-be54-7b08-7d5f1beb1684",
       "totalWeightG": 1336,
       "propWeightG": 773.3,
       "delays": "6,8,10,12,14",
       "caseInfo": "RMS-54/1706",
       "propInfo": "Blue Thunder",
       "sparky": false,
-      "updatedOn": "2019-04-17"
+      "updatedOn": "2026-05-19"
     },
     "5f4294d200023100000001ee": {
       "motorId": "5f4294d200023100000001ee",

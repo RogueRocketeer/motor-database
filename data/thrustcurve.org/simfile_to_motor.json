@@ -8262,5 +8262,13 @@
     "license": null,
     "infoUrl": "/simfiles/5f4294d20002e9000000015c/",
     "dataUrl": "/simfiles/5f4294d20002e9000000015c/download/data.eng"
+  },
+  "5f4294d20002e900000003cc": {
+    "motorId": "5f4294d20002310000000166",
+    "format": "RockSim",
+    "source": "user",
+    "license": null,
+    "infoUrl": "/simfiles/5f4294d20002e900000003cc/",
+    "dataUrl": "/simfiles/5f4294d20002e900000003cc/download/data.rse"
   }
 }
